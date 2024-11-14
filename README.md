@@ -1,4 +1,4 @@
 # testrepo.001
-This is my 001 repo
+This is my 001 Repository.
 Author - Aditi Mishra
 
